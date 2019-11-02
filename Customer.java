@@ -24,6 +24,7 @@ class Customer
       }
      @Override
      public String toString(){
+        return "Hello";
      }
    
 }
