@@ -18,9 +18,15 @@ class Customer
 
             
       public void getCustomer(){
+          custID=1000;
+	}
 
       public void showCustomer(){
+
 		System.out.println("Hello Customer");
+
+	
+
       }
      @Override
      public String toString(){
