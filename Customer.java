@@ -20,7 +20,7 @@ class Customer
       public void getCustomer(){
 
       public void showCustomer(){
-
+		System.out.println("Hello Customer");
       }
      @Override
      public String toString(){
