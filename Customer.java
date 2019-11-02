@@ -6,7 +6,13 @@ class Customer
       public int getCustId{
             return custId;      
       }
+
       public void setCustId{
             return custId;      
+
+      
+      public String getCustName{
+            return CustName;
+
       }
 }
