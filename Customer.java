@@ -15,6 +15,11 @@ class Customer
             return CustName;
 
       }
+
+            
+      public void getCustomer(){
+
       public void showCustomer(){
+
       }
 }
