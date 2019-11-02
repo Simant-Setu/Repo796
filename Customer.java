@@ -22,4 +22,6 @@ class Customer
       public void showCustomer(){
 
       }
+     public String toString(){
+     }
 }
