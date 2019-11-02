@@ -18,9 +18,11 @@ class Customer
 
             
       public void getCustomer(){
+          custID=1000;
+	}
 
       public void showCustomer(){
-
+	
       }
      @Override
      public String toString(){
